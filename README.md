@@ -2,7 +2,7 @@
 
 **Software Engineering Student & Backend Developer | Minor in Game Design**
 
-I specialize in building scalable architectures by applying strict **OOP principles** and **Design Patterns** across diverse environments. I position myself at the intersection of engineering discipline and creative problem-solving, leveraging a multi-disciplinary background to bridge the gap between highly optimized cloud backends and engaging game mechanics.
+I specialize in building scalable, event-driven architectures by applying strict OOP principles and Design Patterns. I position myself at the intersection of robust system engineering and creative problem-solving—leveraging my multi-disciplinary background to bridge the gap between highly optimized cloud backends, autonomous AI (LLM) integrations, and engaging interactive mechanics.
 
 ### 🚀 What I'm working on
 * Architecting cloud-native **Microservices** and Event-Driven systems (.NET 8, Spring Boot, Azure).
