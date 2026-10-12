@@ -4,23 +4,22 @@
 
 I specialize in building scalable, event-driven architectures by applying strict OOP principles and Design Patterns. I position myself at the intersection of robust system engineering and creative problem-solving—leveraging my multi-disciplinary background to bridge the gap between highly optimized cloud backends, autonomous AI (LLM) integrations, and engaging interactive mechanics.
 
-### 🚀 What I'm working on
-* Architecting cloud-native **Microservices** and Event-Driven systems (.NET 8, Spring Boot, Azure).
-* Integrating **LLMs and AI Agents** into enterprise backends (LangGraph, MCP).
-* Developing 2D/3D games and implementing complex game logic (Unity, C#).
+## 🚀 What I'm working on
+- **Architecting** cloud-native Microservices and Event-Driven systems (.NET 8, Spring Boot, Azure).
+- **Integrating** LLMs and AI Agents into enterprise backends (LangGraph, MCP).
+- **Researching** multi-modal anomaly detection and LLM reasoning for my senior capstone project (GUARD).
+- **Developing** 2D/3D games and implementing complex game logic (Unity, C#).
 
-### 🛠️ Tech Stack & Tools
-
-* **Languages:** `C` `C++` `Java` `C#` `JavaScript` `Python`
-* **Frameworks & Web:** `.NET 8` `ASP.NET Core` `Entity Framework Core` `Java Spring Boot` `Vue.js` `Nuxt 3` `React` `FastAPI`
-* **Database & Cloud:** `PostgreSQL` `MySQL` `MongoDB` `Redis` `Microsoft Azure` `AWS`
-* **Game Development:** `Unity` `C# Scripting` `Blender`
-* **Testing & QA:** `k6` (Load Testing) `Selenium` `JUnit` `xUnit` `Black-box` `White-box Testing`
-* **Tools & DevOps:** `Docker` `RabbitMQ` `Swagger` `Ocelot API Gateway` `Git` `GitHub` `Visual Paradigm` `Figma` `Vercel` `Postman` `IntelliJ IDEA` `VS Code` `NetBeans`
-* **Architectural Concepts:** `OOP` `Microservices` `Event-Driven Architecture` `N-Tier Architecture` `Optimistic Concurrency` `Design Patterns` `LLM Integration` `MCP`
+## 🛠️ Tech Stack & Tools
+- **Languages:** C, C++, Java, C#, JavaScript, Python
+- **Frameworks & Web:** .NET 8, ASP.NET Core, Entity Framework Core, Java Spring Boot, Vue.js, Nuxt 3, React, FastAPI
+- **Database & Cloud:** PostgreSQL, MySQL, MongoDB, Redis, Microsoft Azure, AWS
+- **Game Development:** Unity, C# Scripting, Blender
+- **Testing & QA:** k6 (Load Testing), Selenium, JUnit, xUnit, Black-box / White-box Testing
+- **Tools & DevOps:** Docker, RabbitMQ, Swagger, Ocelot API Gateway, Git, GitHub, Visual Paradigm, Figma, Vercel, Postman, IntelliJ IDEA, VS Code, NetBeans
+- **Architectural Concepts:** OOP, Microservices, Event-Driven Architecture, N-Tier Architecture, Optimistic Concurrency, Design Patterns, LLM Integration, MCP
 
 ### 🌟 Featured Projects
-
 * 🏨 **[Hotel Booking System](https://github.com/batusalcan/HotelBookingSystem):** A production-grade, distributed microservices platform deployed on Azure, featuring Redis-cached searches, PostgreSQL optimistic concurrency, RabbitMQ event pipelines, and a Gemini AI-powered conversational agent.
 * 🎓 **[Senior Project Management System](https://github.com/SE3318-Spring-2025-2026/senior-app-6):** A full-stack Spring Boot and Nuxt 3 academic grading platform built within a **16-person Agile team**, featuring automated Jira/GitHub synchronization, LLM-powered code diff validation, and a strict RBAC evaluation engine.
 * ✈️ **[Airline Ticketing API & AI Agent](https://github.com/batusalcan/AirlineTicketingApi):** A highly scalable B2B N-Tier backend handling high-traffic concurrency, paired with an autonomous ReAct AI agent using the Model Context Protocol (MCP).
